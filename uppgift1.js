@@ -6,9 +6,9 @@ let surName = "Olofsson";
 
 let age = 25;
 
-let isStudent = true;
+let isStudent = true; //Boolean som berättar att Linneah är student
 
 console.log(
   `Mitt namn är ${firstName} ${surName} och jag är ${age} år gammal.`,
-);
-console.log("Jag är student: " + isStudent);
+); //Skriver ut namn och ålder
+console.log("Jag är student: " + isStudent); //Skriver ut om personen är student eller ej

@@ -9,5 +9,6 @@ let age = 25;
 let isStudent = true;
 
 console.log(
-  `Mitt namn är ${firstName} ${surName} jag är ${age} år gammal och är ${isStudent}`,
+  `Mitt namn är ${firstName} ${surName} och jag är ${age} år gammal.`,
 );
+console.log("Jag är student: " + isStudent);

@@ -2,4 +2,4 @@
 
 let calculateArea = (width, height) => width * height;
 
-console.log(calculateArea(3, 2));
+console.log(`Arean är ${calculateArea(3, 2)} m^2`);

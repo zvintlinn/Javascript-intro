@@ -10,4 +10,4 @@ let sumOfNumbers = (array) => {
   }
 };
 
-console.log();
+console.log(sumOfNumbers(numbers));

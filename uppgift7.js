@@ -1,6 +1,6 @@
 "use strict";
 
-let numbers = [10, 100, 100, 200, 300];
+let numbers = [10, 100, 100, 200, 300, 650];
 
 let sumOfNumbers = (array) => {
   let sum = 0;

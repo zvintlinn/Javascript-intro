@@ -1,6 +1,7 @@
 "use strict";
 
 function book(title, author, year) {
+  //function template för böcker
   this.title = title;
   this.author = author;
   this.year = year;

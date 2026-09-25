@@ -13,3 +13,7 @@ const people = [
     city: Göteborg,
   },
 ];
+
+function giveInfo(people) {
+  for (let i = 0; i < people.length; i++) {}
+}

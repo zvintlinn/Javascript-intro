@@ -11,4 +11,4 @@ let sumOfNumbers = (array) => {
   return sum; //totalen returneras i slutet
 };
 
-console.log(sumOfNumbers(numbers));
+console.log(`Summan är ${sumOfNumbers(numbers)}`);

@@ -10,3 +10,5 @@ function book(title, author, year) {
     console.log(`Utgivningsår: ${this.year}`);
   };
 }
+
+const book1 = new book("Chippet", "Linnea", 2024);

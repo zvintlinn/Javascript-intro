@@ -11,4 +11,6 @@ function book(title, author, year) {
   };
 }
 
-const book1 = new book("Chippet", "Linnea", 2024);
+const book1 = new book("Chippet", "Linnea Malmgren", 2024);
+
+book1.presentation();

@@ -15,3 +15,23 @@ function book(title, author, year) {
 const book1 = new book("Chippet", "Linnea Malmgren", 2024);
 
 book1.presentation();
+
+/*Eftersom jag insåg att jag kanske 
+missförstod uppgiften när jag gjorde en 
+function template så gör jag en till variant nedan*/
+
+console.log(" "); //Googlade hur jag fick in en tom rad för att separera böckerna
+
+const secondBook = {
+  title: "Allt jag fått lära mig",
+  author: "Tara Westover",
+  year: 2019,
+};
+
+function bookInfo(book) {
+  console.log(`Titel: ${book.title}`);
+  console.log(`Författare: ${book.author}`);
+  console.log(`Utgivningsår: ${book.year}`);
+}
+
+bookInfo(secondBook);

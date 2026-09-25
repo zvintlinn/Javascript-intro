@@ -9,7 +9,7 @@ const people = [
   },
   {
     name: "Fanny",
-    age: 30,
+    age: 12,
     city: "Göteborg",
   },
 ];

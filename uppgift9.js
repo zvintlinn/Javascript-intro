@@ -16,11 +16,14 @@ const people = [
 
 function giveInfo(people) {
   for (let i = 0; i < people.length; i++) {
-    console.log(`${people[i].name} bor i ${people[i].city} och är`);
-    if (people[i].age < 18) {
-      console.log("inte myndig.");
+    if (people.age < 18) {
+      console.log(
+        `${people[i].name} bor i ${people[i].city} och är inte myndig.`,
+      );
+    } else {
+      console.log(`${people[i].name} bor i ${people[i].city} och är myndig.`);
     }
   }
 }
 
-giveInfo(people[1]);
+giveInfo(people);

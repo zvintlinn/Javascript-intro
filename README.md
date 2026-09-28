@@ -11,3 +11,7 @@ Jag har försökt använda mig av de metoder som vi fått lära oss är mer mode
 Jag upplever trots allt att Javascript är det område som kanske fångat mitt intresse alla mest hittills i kursen. Det motiverar mig att känna att jag faktiskt förstår när det till en början kändes så pass svårt. Jag blir nog sporrad av att det är lite knivigt ibland!
 
 Mina förhoppningar framåt i nästa moment är att få en bättre förståelse för hur javascript faktiskt implementeras på webbplatser. Jag tror att den kunskapen kommer bidra till en ännu bättre logik i hur koden i sig fungerar.
+
+## Noteringar
+
+Jag valde att inte skapa någon dev-branch i detta projekt. Min tanke med detta var att varje enskild uppgift var så pass liten att det kanske bara skulle vara överflödigt. Speciellt när filerna inte är kopplade till någon webbplats. Detta kan ha varit fel av mig, men vill ändå skicka med att det var ett medvetet val.

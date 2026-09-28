@@ -1,4 +1,4 @@
-// Lösning till uppgift 1 av Linneah Olofsson
+// Lösning till uppgift 1 av Linneah Olofsson - skapar variabler som representerar mig
 "use strict";
 
 let firstName = "Linneah";

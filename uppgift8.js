@@ -1,4 +1,4 @@
-// Lösning till uppgift 8 av Linneah Olofsson
+// Lösning till uppgift 8 av Linneah Olofsson - två olika lösningar för att skapa en funktion som skriver ut information om en bok
 "use strict";
 
 function book(title, author, year) {

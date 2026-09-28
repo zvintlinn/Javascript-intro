@@ -1,4 +1,4 @@
-// Lösning till uppgift 9 av Linneah Olofsson
+// Lösning till uppgift 9 av Linneah Olofsson - funktion som tar emot en array med objekt och skriver ut om personerna i arrayen är myndiga eller ej
 "use strict";
 
 //array med tre personer

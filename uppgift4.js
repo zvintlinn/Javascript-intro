@@ -1,4 +1,4 @@
-// Lösning till uppgift 4 av Linneah Olofsson
+// Lösning till uppgift 4 av Linneah Olofsson - for-loop och for-loop med if-sats som räknar ut modulus
 "use strict";
 
 //Loop som skriver alla tal från 1-20

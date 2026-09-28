@@ -1,4 +1,4 @@
-// Lösning till uppgift 5 av Linneah Olofsson
+// Lösning till uppgift 5 av Linneah Olofsson - hantera en enkel array
 "use strict";
 
 let dishes = ["carbonara", "pizza", "hamburgare", "räksallad", "lasagne"];

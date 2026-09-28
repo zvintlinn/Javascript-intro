@@ -1,4 +1,4 @@
-// Lösning till uppgift 3 av Linneah Olofsson
+// Lösning till uppgift 3 av Linneah Olofsson - if-sats som avgör om en person är barn, vuxen eller pensionär
 "use strict";
 
 let age = 67; //resenärens ålder

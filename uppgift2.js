@@ -1,4 +1,4 @@
-// Lösning till uppgift 2 av Linneah Olofsson
+// Lösning till uppgift 2 av Linneah Olofsson - skriver ut prisuppgifter om en produkt
 "use strict";
 
 let productPrice = 100; //Produktens pris

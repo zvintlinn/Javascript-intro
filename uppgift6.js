@@ -1,3 +1,4 @@
+// Lösning till uppgift 6 av Linneah Olofsson
 "use strict";
 
 let calculateArea = (width, height) => width * height; //tar emot bredd och höjd och multiplicerar dessa

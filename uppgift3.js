@@ -1,3 +1,4 @@
+// Lösning till uppgift 3 av Linneah Olofsson
 "use strict";
 
 let age = 67; //resenärens ålder

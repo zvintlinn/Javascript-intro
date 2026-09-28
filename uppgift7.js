@@ -1,3 +1,4 @@
+// Lösning till uppgift 7 av Linneah Olofsson
 "use strict";
 
 let numbers = [10, 100, 100, 200, 300, 650];

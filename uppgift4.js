@@ -1,3 +1,4 @@
+// Lösning till uppgift 4 av Linneah Olofsson
 "use strict";
 
 //Loop som skriver alla tal från 1-20

@@ -1,3 +1,4 @@
+// Lösning till uppgift 9 av Linneah Olofsson
 "use strict";
 
 //array med tre personer

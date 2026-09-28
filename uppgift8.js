@@ -1,3 +1,4 @@
+// Lösning till uppgift 8 av Linneah Olofsson
 "use strict";
 
 function book(title, author, year) {

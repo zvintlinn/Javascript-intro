@@ -1,3 +1,4 @@
+// Lösning till uppgift 2 av Linneah Olofsson
 "use strict";
 
 let productPrice = 100; //Produktens pris

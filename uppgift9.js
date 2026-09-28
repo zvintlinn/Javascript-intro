@@ -15,7 +15,7 @@ const people = [
   },
 ];
 //funktion som tar emot array
-function giveInfo(people) {
+function adultOrNot(people) {
   for (let i = 0; i < people.length; i++) {
     //loop genom arrayen, if-sats avgör om person är myndig eller ej
     if (people[i].age < 18) {
@@ -28,4 +28,4 @@ function giveInfo(people) {
   }
 }
 
-giveInfo(people); //anropar funktion
+adultOrNot(people); //anropar funktion
